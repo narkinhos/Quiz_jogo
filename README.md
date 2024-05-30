@@ -6,5 +6,5 @@ Progresso: WIP
 Tecnologias e IDE Utilizadas: Unity, C#, Vs code.
 Controles do Jogo: Mouse.
 Downloads: www.googledrive.com
-Autores do Projeto: Marcos Vinicius da Silva, Ana Carolyne Ignácio de Oliveira, Elisangela Maria Arantes Gaspar, Viviane Moreira da Silva 
+Autores do Projeto: Marcos Vinicius da Silva, Ana Carolyne Ignácio de Oliveira, Elisangela Maria Arantes Gaspar, Viviane Moreira da Silva, Leila Brum, Thaisa de Abreu.
 
